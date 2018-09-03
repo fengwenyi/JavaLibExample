@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-result" />
+        <module name="JavaLibExampleAopLog" />
         <module name="JavaLibExampleResult" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-result" target="1.8" />
+      <module name="JavaLibExampleAopLog" target="1.8" />
       <module name="JavaLibExampleResult" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaLibExampleAopLog/JavaLibExampleAopLog.iml" filepath="$PROJECT_DIR$/JavaLibExampleAopLog/JavaLibExampleAopLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLibExampleResult/JavaLibExampleResult.iml" filepath="$PROJECT_DIR$/JavaLibExampleResult/JavaLibExampleResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLibExampleResult/api-result/api-result.iml" filepath="$PROJECT_DIR$/JavaLibExampleResult/api-result/api-result.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLibExampleResult/api-result/api-result.iml" filepath="$PROJECT_DIR$/JavaLibExampleResult/api-result/api-result.iml" />
     </modules>
   </component>
