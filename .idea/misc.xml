@@ -80,7 +80,11 @@
       <list>
         <option value="$PROJECT_DIR$/JavaLibExampleResult/pom.xml" />
         <option value="$PROJECT_DIR$/JavaLibExampleResult/api-result/pom.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/JavaLibExampleAopLog/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/message-engine/pom.xml" />
+>>>>>>> 消息引擎测试
       </list>
     </option>
   </component>

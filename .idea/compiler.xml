@@ -9,12 +9,14 @@
         <module name="api-result" />
         <module name="JavaLibExampleAopLog" />
         <module name="JavaLibExampleResult" />
+        <module name="message-engine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-result" target="1.8" />
       <module name="JavaLibExampleAopLog" target="1.8" />
       <module name="JavaLibExampleResult" target="1.5" />
+      <module name="message-engine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
